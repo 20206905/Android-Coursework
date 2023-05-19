@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "828532099724",
+    "project_id": "coursework-ce33e",
+    "storage_bucket": "coursework-ce33e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828532099724:android:7455437b5f2964241749a9",
+        "android_client_info": {
+          "package_name": "uk.ac.hope.csc.android.hugh.coursework"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828532099724-ifnettmcp371ahg6vihsolufhfivqdil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyk5p0yay3ppj3DPUkkfMfpyag2fVUWHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828532099724-ifnettmcp371ahg6vihsolufhfivqdil.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
